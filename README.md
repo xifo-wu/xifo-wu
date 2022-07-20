@@ -11,7 +11,7 @@
 
 ### LeetCode Stats
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=seifwu&site=cn)](https://leetcode-cn.com/seifwu)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=seifwu&site=cn)](https://leetcode-cn.com/xifo)
 
 <!--
 **seif-wu/seif-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
