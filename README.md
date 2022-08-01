@@ -1,6 +1,6 @@
 ## Hello World!
 
-![](https://seif-stats.vercel.app/api/top-langs/?username=seif-wu&layout=compact#crop=0&crop=0&crop=1&crop=1&id=Hh0ge&originHeight=165&originWidth=350&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://seif-stats.vercel.app/api/top-langs/?username=xifo-wu&layout=compact#crop=0&crop=0&crop=1&crop=1&id=Hh0ge&originHeight=165&originWidth=350&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 - 🌱 I’m currently learning `Python`
 - 🔥 My personal website [Seifal](https://www.seifal.com)
