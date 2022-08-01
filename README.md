@@ -7,11 +7,11 @@
 
 ### Github Stats
 
-![](https://seif-stats.vercel.app/api?username=seif-wu&hide=contribs,prs&count_private=true&show_icons=true&theme=algolia#crop=0&crop=0&crop=1&crop=1&id=gqjXR&originHeight=150&originWidth=495&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://seif-stats.vercel.app/api?username=xifo-wu&hide=contribs,prs&count_private=true&show_icons=true&theme=algolia#crop=0&crop=0&crop=1&crop=1&id=gqjXR&originHeight=150&originWidth=495&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ### LeetCode Stats
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=seifwu&site=cn)](https://leetcode-cn.com/xifo)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=xifo&site=cn)](https://leetcode-cn.com/xifo)
 
 <!--
 **seif-wu/seif-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
