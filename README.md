@@ -11,14 +11,8 @@ type-challenges`
 
 ***
 
-<div style="display: flex; margin-top: 32px; align-items: center; gap: 32px">
-  <div>
-    <img src="https://seif-stats.vercel.app/api/top-langs/?username=xifo-wu&#crop=0&crop=0&crop=1&crop=1&id=Hh0ge&originHeight=165&originWidth=350&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=" />
-  </div>
-  <div>
+<img align="right" src="https://seif-stats.vercel.app/api/top-langs/?username=xifo-wu&#crop=0&crop=0&crop=1&crop=1&id=Hh0ge&originHeight=165&originWidth=350&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=" />
 
-  <img src="https://seif-stats.vercel.app/api?username=xifo-wu&hide=contribs,prs&count_private=true&show_icons=true&theme=algolia#crop=0&crop=0&crop=1&crop=1&id=gqjXR&originHeight=150&originWidth=495&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=" />
+<img src="https://seif-stats.vercel.app/api?username=xifo-wu&hide=contribs,prs&count_private=true&show_icons=true&theme=algolia#crop=0&crop=0&crop=1&crop=1&id=gqjXR&originHeight=150&originWidth=495&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=" />
 
-   <img src="https://leetcode.card.workers.dev/?username=xifo&site=cn" />
-  </div>
-</div>
+<img src="https://leetcode.card.workers.dev/?username=xifo&site=cn" />
