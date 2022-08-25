@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning `Golang` `TypeScript
 type-challenges`
-- 🔥 My personal website [Mirai](https://mirai.seifal.com)
+- 🔥 My personal website [Mirai](https://mirai.xifo.in)
 
 
 ***
