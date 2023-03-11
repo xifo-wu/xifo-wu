@@ -16,5 +16,3 @@ type-challenges`
 <img align="right" src="https://seif-stats.vercel.app/api/top-langs/?username=xifo-wu&langs_count=8" />
 
 <img src="https://seif-stats.vercel.app/api?username=xifo-wu&count_private=true&show_icons=true&theme=algolia" />
-
-<img src="https://leetcode.card.workers.dev/?username=xifo&site=cn" />
