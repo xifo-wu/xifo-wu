@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning `Python` `TypeScript
 type-challenges`
 - 🔥 My personal components website [Mirai](https://mirai.xifo.in)
-- 🌈 In Development [HD Hive](https://hdhive.org)
 
 ***
 
